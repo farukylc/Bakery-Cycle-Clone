@@ -18,8 +18,4 @@ I cloned game of the DoDo Game Company which you can download via  <a href="http
 ![Ekran Resmi 2023-06-19 16 10 22](https://github.com/farukylc/Bakery-Cycle-Clone/assets/99920678/07e4824d-c127-4580-a1c6-75eb2ce0bd2d)
 
 ## 🎥 Gameplay video:
-<p align="center">
-  <a href="[https://www.youtube.com/watch?v=k-b8lplZ5ZE](https://youtube.com/shorts/3Y290VH4JTY)">
-    Link
-  </a>
-</p>
+<a href="https://youtube.com/shorts/3Y290VH4JTY">Video</a>
